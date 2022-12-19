@@ -180,8 +180,12 @@ input[type="submit"]:hover {
   .inputbox {
     width: 250px;
   }
+  .inputbox span {
+    font-size: 18px;
+  }
   .links a {
     margin: 40px 0;
+    font-size: 18px;
   }
   input[type="submit"] {
     margin-top: -10px;
